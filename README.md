@@ -4,7 +4,7 @@ In main.py is main system to get car in, car out, calculate parking fee and send
 In GuiShop/project_3.py is a restaurant POS system. It's calculate a meal for calcualte parking fee.
 
 # How to Calcualte parking fee!
- *Meal is over 1000. free parking fee.
- *Meal is 100-999. free 1 hour and get 30/hours.
- *Meal is lower than 100. 30/hours.
- *if time difference is more than xx:30. set time difference is 1 hour.
+ *Meal is over 1000. free parking fee.<br/>
+ *Meal is 100-999. free 1 hour and get 30/hours.<br/>
+ *Meal is lower than 100. 30/hours.<br/>
+ *if time difference is more than xx:30. set time difference is 1 hour.<br/>

@@ -8,3 +8,10 @@ In GuiShop/project_3.py is a restaurant POS system. It's calculate a meal for ca
  *Meal is 100-999. free 1 hour and get 30/hours.<br/>
  *Meal is lower than 100. 30/hours.<br/>
  *if time difference is more than xx:30. set time difference is 1 hour.<br/>
+
+# How to run this project?
+```
+cd GuiShop
+```
+*run main.py for POS of cars
+*run project_3 for open POS of restaurants
